@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Codersumedh/static/css/main.50fbcf0e.css",
+    "main.js": "/Codersumedh/static/js/main.fed2d28d.js",
+    "index.html": "/Codersumedh/index.html",
+    "main.50fbcf0e.css.map": "/Codersumedh/static/css/main.50fbcf0e.css.map",
+    "main.fed2d28d.js.map": "/Codersumedh/static/js/main.fed2d28d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.50fbcf0e.css",
+    "static/js/main.fed2d28d.js"
+  ]
+}
